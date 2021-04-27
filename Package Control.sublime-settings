@@ -8,13 +8,19 @@
 		"AdvancedNewFile",
 		"All Autocomplete",
 		"ApplySyntax",
+		"Babel",
+		"Babel Snippets",
+		"Bemmet",
 		"BracketHighlighter",
 		"Emmet",
+		"Emmet Css Snippets",
+		"Emmet Style Reflector",
+		"EmmetOneLine",
+		"ERB Snippets",
 		"Git",
 		"GitGutter",
 		"JSX",
 		"Package Control",
-		"SCSS",
-		"ERB Snippets"
+		"SCSS"
 	]
 }
